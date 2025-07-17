@@ -1,4 +1,4 @@
-#  YouTube Gesture Controller – Hand Gesture Based Media Control
+#  YouTube Gesture Controller – Hand Gesture-Based Media Control
 
 A **computer vision-based** application that lets users **control YouTube playback** using **real-time hand gestures**, built with **OpenCV**, **MediaPipe**, and **PyAutoGUI** in Python.
 
@@ -22,7 +22,7 @@ A **computer vision-based** application that lets users **control YouTube playba
 - **Hand Tracking**: MediaPipe
 - **Automation**: PyAutoGUI
 - **Virtual Environment**: venv
-- **Version Control**: Git & GitHu
+- **Version Control**: Git & GitHub
 ## 📦 Setup Instructions
 
 1. Clone the repository:

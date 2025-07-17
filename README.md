@@ -13,7 +13,6 @@ A **computer vision-based** application that lets users **control YouTube playba
   - Mute / Unmute
 - **Finger Counting Logic** for intuitive gesture control
 - **Webcam Integration** for live input
-- **Lightweight Desktop Execution** with simple UI
 
 ---
 ##  Tech Stack
